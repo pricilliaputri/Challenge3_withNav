@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Challenge3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="words">Words</string>
+    <string name="abjad">Alphabet</string>
+    <string name="start_with">Words Starting With</string>
+
+    <string-array name="Abjad">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string-array name="kata">
+        <item>AMPOULE</item>
+        <item>ASING</item>
+        <item>AYAM</item>
+        <item>ANGKASA</item>
+        <item>ALPHABET</item>
+
+        <item>BOLA</item>
+        <item>BUKU</item>
+        <item>BACA</item>
+        <item>BERKAH</item>
+        <item>BUSUK</item>
+
+        <item>CANTIK</item>
+        <item>CINTA</item>
+        <item>COPET</item>
+        <item>CILOK</item>
+        <item>CUKUR</item>
+
+        <item>DALAM</item>
+        <item>DUDA</item>
+        <item>DOMBA</item>
+        <item>DAGING</item>
+        <item>DURIAN</item>
+
+        <item>EMULSI</item>
+        <item>EMAS</item>
+        <item>ELANG</item>
+        <item>EMPATI</item>
+        <item>EMAS</item>
+
+        <item>FANA</item>
+        <item>FAUNA</item>
+        <item>FLORA</item>
+        <item>FASIK</item>
+        <item>FILOSOFI</item>
+
+        <item>GUNUNG</item>
+        <item>GORILA</item>
+        <item>GIGI</item>
+        <item>GAJAH</item>
+        <item>GAUN</item>
+
+        <item>HAUS</item>
+        <item>HARI</item>
+        <item>HARAPAN</item>
+        <item>HIJAU</item>
+        <item>HUJAN</item>
+
+        <item>ITIK</item>
+        <item>INDUK</item>
+        <item>ISYARAT</item>
+        <item>IBU</item>
+        <item>INDAH</item>
+
+        <item>JERUK</item>
+        <item>JINGGA</item>
+        <item>JAMBU</item>
+        <item>JENGKOL</item>
+        <item>JURAGAN</item>
+
+        <item>KAPTEN</item>
+        <item>KAKI</item>
+        <item>KUDA</item>
+        <item>KAOS</item>
+        <item>KUTIL</item>
+
+        <item>LOMBA</item>
+        <item>LILIN</item>
+        <item>LAMPU</item>
+        <item>LEMPER</item>
+        <item>LUBANG</item>
+
+        <item>MATI</item>
+        <item>MASUK</item>
+        <item>MULIA</item>
+        <item>MASAK</item>
+        <item>MELAYU</item>
+
+        <item>NASIHAT</item>
+        <item>NANAS</item>
+        <item>NORI</item>
+        <item>NARASI</item>
+        <item>NASI</item>
+
+        <item>OMBAK</item>
+        <item>OPAK</item>
+        <item>OLI</item>
+        <item>OSENG TEMPE</item>
+        <item>OBENG</item>
+
+        <item>PERUT</item>
+        <item>PANCI</item>
+        <item>PANTAI</item>
+        <item>PISANG</item>
+        <item>PASIR</item>
+
+        <item>QATAR</item>
+        <item>QRIS</item>
+        <item>QUEEN</item>
+        <item>QIRAAH</item>
+        <item>QURAN</item>
+
+        <item>REMOT</item>
+        <item>RAMBUT</item>
+        <item>RAJA</item>
+        <item>RATU</item>
+        <item>RASA</item>
+
+        <item>SAOS</item>
+        <item>SERUM</item>
+        <item>SEPATU</item>
+        <item>SANDAL</item>
+        <item>SUSU</item>
+
+        <item>TAS</item>
+        <item>TOPI</item>
+        <item>TONER</item>
+        <item>TEMPE</item>
+        <item>TAHU</item>
+
+        <item>UAP</item>
+        <item>UANG</item>
+        <item>UMUR</item>
+        <item>ULAT</item>
+        <item>UNTA</item>
+
+        <item>VISA</item>
+        <item>VAS</item>
+        <item>VALID</item>
+        <item>VAKSIN</item>
+        <item>VISUAL</item>
+
+        <item>WABAH</item>
+        <item>WANITA</item>
+        <item>WADAH</item>
+        <item>WADUK</item>
+        <item>WAFAT</item>
+
+        <item>XENON</item>
+        <item>XILEM</item>
+        <item>XAVIER</item>
+        <item>XEROFIT</item>
+        <item>XENOFOBIA</item>
+
+        <item>YOYO</item>
+        <item>YAKULT</item>
+        <item>YOGURTH</item>
+        <item>YAYASAN</item>
+        <item>YOGA</item>
+
+        <item>ZEBRA</item>
+        <item>ZAT BESI</item>
+        <item>ZONK</item>
+        <item>ZINC</item>
+        <item>ZODIAK</item>
+
+    </string-array>
+</resources>
